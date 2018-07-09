@@ -3,5 +3,6 @@ blue
 yellow
 green
 violet
+Indigo
 unicorn
 rainbow colors.
