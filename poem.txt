@@ -2,5 +2,6 @@ red
 blue
 yellow
 green
+violet
 
 rainbow colors.
