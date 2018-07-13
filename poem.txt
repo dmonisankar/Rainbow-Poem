@@ -8,6 +8,6 @@ unicorn
 ponnies
 rainbow colors.
 this is to test merging. This is test1 branch version.
-This is second test on branching.
+This is 2nd test where we will reject brach changes.
 This is another line which I wish to merge.
 
