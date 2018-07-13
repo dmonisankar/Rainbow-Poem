@@ -7,4 +7,4 @@ Indigo
 unicorn
 ponnies
 rainbow colors.
-this is to test merging. Initial version.
+this is to test merging. This is 2nd version on master branch.
