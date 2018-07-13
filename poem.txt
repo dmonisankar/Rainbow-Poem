@@ -7,3 +7,4 @@ Indigo
 unicorn
 ponnies
 rainbow colors.
+this is to test merging. Initial version.
